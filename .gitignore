@@ -1,0 +1,10 @@
+.idea/
+work/
+target/tmp/
+target/jenkins-for-testx/
+target/jenkins-for-test/
+target/site/
+target/emtc/
+target/classes/
+target/
+.svn/
